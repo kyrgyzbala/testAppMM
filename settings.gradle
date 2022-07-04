@@ -1,0 +1,5 @@
+
+rootProject.name = "TestTaskMM"
+include ':app'
+include ':enter_fr'
+include ':display_fr'
